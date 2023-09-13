@@ -27,6 +27,10 @@ This script is an integral part of a graduation project prototype, which aims to
 - **Main Logic**: Processes the patient's response, extracts topics, determines sentiment, and updates the sentiment history for each topic.
 - **Decay Mechanism**: Older sentiments are weighted less than recent sentiments using a decay factor. This ensures the chatbot's feedback remains relevant and up-to-date.
 
+![topic modelling](https://github.com/laithab90/topic-modeling_spacy/assets/95342563/1888112e-7f1b-4703-9273-a84684c3ed06)
+
+![timedecay](https://github.com/laithab90/topic-modeling_spacy/assets/95342563/c7391396-d512-4f1d-8438-d9922b0f08b7)
+
 ## Usage
 
 1. Ensure all dependencies are installed.
@@ -38,8 +42,5 @@ This script is an integral part of a graduation project prototype, which aims to
 
 This script plays a pivotal role in the caregiver chatbot project by offering insights into how patients feel about certain topics. By avoiding negative topics, the chatbot can provide a more pleasant and supportive interaction for dementia patients.
 
-![topic modelling](https://github.com/laithab90/topic-modeling_spacy/assets/95342563/1888112e-7f1b-4703-9273-a84684c3ed06)
-
-![timedecay](https://github.com/laithab90/topic-modeling_spacy/assets/95342563/c7391396-d512-4f1d-8438-d9922b0f08b7)
 
 
